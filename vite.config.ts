@@ -7,5 +7,5 @@ export default defineConfig({
   optimizeDeps: {
     exclude: ["lucide-react"],
   },
-  base: "https://truemolni.github.io/Recipe-Explorer",
+  base: "/recipe-explorer",
 });

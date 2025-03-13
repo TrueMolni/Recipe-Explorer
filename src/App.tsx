@@ -7,7 +7,7 @@ import RecipesPage from "./pages/RecipesPage";
 import RecipeDetailPage from "./pages/RecipeDetailPage";
 import FavoritesPage from "./pages/FavoritesPage";
 
-const basename = "https://truemolni.github.io/Recipe-Explorer";
+const basename = "/recipe-explorer";
 
 const queryClient = new QueryClient({
   defaultOptions: {
